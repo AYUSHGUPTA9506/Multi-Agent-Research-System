@@ -1,0 +1,63 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# Agent Framework
+langgraph
+
+# OpenAI
+openai
+
+# Environment Variables
+python-dotenv
+
+# Web Search
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Vector Database
+chromadb
+
+# Embeddings
+tiktoken
+
+# Document Loaders
+pypdf
+unstructured
+
+# Data Handling
+pandas
+numpy
+
+# Validation
+pydantic
+
+# Async Support
+aiohttp
+
+# Logging & Monitoring
+langsmith
+
+# CLI / Rich Output
+rich
+
+# Token Usage Tracking
+tenacity
+
+# Utilities
+typing-extensions
+
+# Optional FastAPI Deployment
+fastapi
+uvicorn
+
+# Optional Notebook Support
+jupyter
+ipykernel
